@@ -4,7 +4,7 @@
 int main(){
 	int Panjang, Lebar, Luas;
 	
-	printf("Masukan panjang= ");
+	printf("Masukan Panjang= ");
 	scanf("%d", &Panjang);
 	printf("Masukan Lebar= ");
 	scanf("%d", &Lebar);
@@ -16,3 +16,4 @@ int main(){
 	
 	return 0;
 }
+
